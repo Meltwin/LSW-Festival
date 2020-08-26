@@ -1,0 +1,16 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="five">30dp</dimen>
+    <dimen name="ten_minutes">60dp</dimen>
+    <dimen name="fifteen_minutes">90dp</dimen>
+    <dimen name="twenty_minutes">120dp</dimen>
+    <dimen name="twentyfive_minutes">150dp</dimen>
+    <dimen name="half_minutes">180dp</dimen>
+    <dimen name="hour">360dp</dimen>
+    <dimen name="cent_quinze">720dp</dimen>
+    <dimen name="text_size">10sp</dimen>
+</resources>

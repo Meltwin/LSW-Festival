@@ -1,0 +1,106 @@
+[
+  {
+    "type":"spec",
+    "name":"",
+    "art":"Ouverture",
+    "time":5
+  },
+  {
+    "type":"spec",
+    "name":"Ayoub",
+    "art":"BeatBox",
+    "time":10
+  },
+  {
+    "type":"spec",
+    "name":"Louis, Lucie",
+    "art":"Chant + Piano",
+    "time":5
+  },
+  {
+    "type":"spec",
+    "name":"Ilyane",
+    "art":"Percussion",
+    "time":10
+  },
+  {
+    "type":"spec",
+    "name":"Léna",
+    "art":"Chant + Piano",
+    "time":10
+  },
+  {
+    "type":"spec",
+    "name":"Ayoub, Lalou",
+    "art":"Rap + Piano",
+    "time":5
+  },
+  {
+    "type":"spec",
+    "name":"Aïda",
+    "art":"Danse",
+    "time":5
+  },
+  {
+    "type":"spec",
+    "name":"Ilona",
+    "art":"Chant",
+    "time":10
+  },
+  {
+    "type":"spec",
+    "name":"Ayoub",
+    "art":"BeatBox",
+    "time":10
+  },
+  {
+    "type":"spec",
+    "name":"Souheilla, Camélia",
+    "art":"Chant",
+    "time":5
+  },
+  {
+    "type":"spec",
+    "name":"Alexandre, Elora, Diana, Léa, Tina",
+    "art":"Groupe de musique",
+    "time":10
+  },
+  {
+    "type":"spec",
+    "name":"Fantine",
+    "art":"Chant",
+    "time":5
+  },
+  {
+    "type":"spec",
+    "name":"Souheilla",
+    "art":"Chant",
+    "time":5
+  },
+  {
+    "type":"spec",
+    "name":"M. Derbekian, M. Michel, Alexandra",
+    "art":"Groupe de musique",
+    "time":10
+  },
+  {
+    "type":"pause",
+    "time":10
+  },
+  {
+    "type":"spec",
+    "name":"Jules, Enzo, Kevin, Ismael",
+    "art":"Acrobaties",
+    "time":5
+  },
+  {
+    "type":"pause",
+    "time":10
+  },
+  {
+    "type":"spec",
+    "name":"Les Weilleurs",
+    "art":"Concert Final",
+    "time":20
+  }
+]

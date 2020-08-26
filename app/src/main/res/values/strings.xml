@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Réweil-toi Simone !</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="scene">Scène</string>
+    <string name="poncet">Poncet</string>
+    <string name="salle_ds">170</string>
+    <string name="salle_centsoixante">113</string>
+    <string name="foyer">Foyer</string>
+    <string name="pause">PAUSE</string>
+</resources>

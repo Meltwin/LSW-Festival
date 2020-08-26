@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ee5833</color>
+    <color name="colorPrimaryDark">#323635</color>
+
+    <color name="colorAccent">#ee5833</color>
+    <color name="colorAccentDarker">#b54127</color>
+    <color name="background">#323635</color>
+    <color name="time">#FFFFFF</color>
+    <color name="timeScoreA">#79807e</color>
+    <color name="timeScoreB">#c6452b</color>
+</resources>

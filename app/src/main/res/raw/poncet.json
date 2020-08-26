@@ -1,0 +1,96 @@
+[
+  {
+    "type":"pause",
+    "time":5
+  },
+  {
+    "type":"spec",
+    "name":"Valentine, Lucie",
+    "art":"Chant",
+    "time":10
+  },
+  {
+    "type":"spec",
+    "name":"Hugo",
+    "art":"Danse Hip-Hop",
+    "time":5
+  },
+  {
+    "type":"spec",
+    "name":"Inès, Nihad",
+    "art":"Danse Contemporaine",
+    "time":5
+  },
+  {
+    "type":"pause",
+    "time":10
+  },
+  {
+    "type":"spec",
+    "name":"Emma K.",
+    "art":"Chant",
+    "time":15
+  },
+  {
+    "type":"spec",
+    "name":"Emma K., Aïda",
+    "art":"Chant + Danse",
+    "time":5
+  },
+  {
+    "type":"spec",
+    "name":"Aïda, Anaïs",
+    "art":"Danse",
+    "time":5
+  },
+  {
+    "type":"spec",
+    "name":"Valentine",
+    "art":"Chant",
+    "time":5
+  },
+  {
+    "type":"pause",
+    "time":10
+  },
+  {
+    "type":"spec",
+    "name":"Tatiana",
+    "art":"Danse Hip-Hop",
+    "time":5
+  },
+  {
+    "type":"spec",
+    "name":"Eloi, Jules, Clément",
+    "art":"Sketch",
+    "time":10
+  },
+  {
+    "type":"spec",
+    "name":"Linda",
+    "art":"Danse K-Pop",
+    "time":5
+  },
+  {
+    "type":"pause",
+    "time":10
+  },
+  {
+    "type":"spec",
+    "name":"Tatiana, Matisse",
+    "art":"Théâtre",
+    "time":15
+  },
+  {
+    "type":"spec",
+    "name":"Iris, Charline, Clémence",
+    "art":"Piano + Flûte",
+    "time":10
+  },
+  {
+    "type":"spec",
+    "name":"",
+    "art":"Rassemblement Concert",
+    "time":20
+  }
+]
